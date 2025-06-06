@@ -1,1 +1,2 @@
 # sos-training
+Hullo world!
